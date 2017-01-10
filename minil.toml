@@ -1,0 +1,3 @@
+name="GetWild"
+[build]
+build_class = "builder::MyBuilder"
